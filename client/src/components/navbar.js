@@ -2,6 +2,7 @@ import React from "react";
 
 // We import bootstrap to make our application look better.
 import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap/dist/js/bootstrap.bundle"
 
 // We import NavLink to utilize the react router.
 import { NavLink } from "react-router-dom";
@@ -17,11 +18,8 @@ export default function Navbar() {
                 <button
                     className="navbar-toggler"
                     type="button"
-                    data-toggle="collapse"
-                    data-target="#navbarSupportedContent"
-                    aria-controls="navbarSupportedContent"
-                    aria-expanded="false"
-                    aria-label="Toggle navigation"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent"
                 >
                     <span className="navbar-toggler-icon"></span>
                 </button>
