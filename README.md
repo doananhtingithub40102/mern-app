@@ -77,26 +77,26 @@ Start the Client
 
 **FrontEnd**
 
-    * To learn React, check out the [React documentation](https://reactjs.org/).
+* To learn React, check out the [React documentation](https://reactjs.org/).
 
-    * You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 
 **BackEnd**
 
-    * [Node.js Tutorial] (https://www.w3schools.com/nodejs/default.asp)
+* [Node.js Tutorial] (https://www.w3schools.com/nodejs/default.asp)
 
-    * [ExpressJS Tutorial] (https://www.tutorialspoint.com/expressjs/index.htm)
+* [ExpressJS Tutorial] (https://www.tutorialspoint.com/expressjs/index.htm)
 
 **Database**
 
-    * [MongoDB Tutorial] (https://www.w3schools.com/mongodb/)
+* [MongoDB Tutorial] (https://www.w3schools.com/mongodb/)
 
-    * Follow the [Get Started with MongoDB Atlas] (https://www.mongodb.com/docs/atlas/getting-started/) guide to create an Atlas cluter, connecting to it, and loading your data.
+* Follow the [Get Started with MongoDB Atlas] (https://www.mongodb.com/docs/atlas/getting-started/) guide to create an Atlas cluter, connecting to it, and loading your data.
 
 **Fullstack**
 
-    * Learn all about the [MERN stack] (https://www.mongodb.com/languages/mern-stack-tutorial) in this step-by-step guide on how to use it by developing a simple CRUD application from scratch.
+* Learn all about the [MERN stack] (https://www.mongodb.com/languages/mern-stack-tutorial) in this step-by-step guide on how to use it by developing a simple CRUD application from scratch.
 
 ## Live app
 
