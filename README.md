@@ -1,5 +1,7 @@
 # Basic MERN App
 
+![my picture](https://doananhtingithub40102.github.io/MyData/mern/mypicture.png)
+
 A full-stack [MERN](https://www.mongodb.com/mern-stack) application for managing information of employees.
 
 ## About the project
