@@ -10,7 +10,7 @@ This is a full-stack MERN application that manages the basic information of empl
 
 ## Tech Stack
 
-**Client:** ReactJS
+**Client:** React, Bootstrap
 
 **Server:** NodeJS, ExpressJS
 
@@ -83,6 +83,7 @@ Start the Client
 
 * You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+* Get started with [Bootstrap](https://www.w3schools.com/bootstrap5/index.php), the world's most popular framework for building responsive, mobile-first websites.
 
 **BackEnd**
 
